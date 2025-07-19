@@ -4,7 +4,7 @@
 ---
 
 🎓 Student @ Federal University of Technology, Minna  
-🚀 Power Learn Project Fellow | 🛠️ Sui On Campus Contributor  
+🚀 Power Learn Project Fellow | 🛠️ Sui On Campus 
 🏀 Basketballer by day | 🎌 Anime enthusiast by night  
 🧠 Learning to build tech that solves real-world problems
 
