@@ -1,63 +1,63 @@
 <h1 align="center">Hi 👋, I'm Isaac Benedict</h1>
-<h3 align="center">Frontend Developer | Junior Dev on a Full-Stack Journey | Open to Opportunities</h3>
+<h3 align="center">Frontend Developer | Full-Stack Builder | Blockchain & Web3 Explorer</h3>
 
 ---
 
 🎓 Student @ Federal University of Technology, Minna  
-🚀 Power Learn Project Fellow | 🛠️ Sui On Campus 
+🚀 Power Learn Project Fellow | 🛠️ Sui On Campus  
 🏀 Basketballer by day | 🎌 Anime enthusiast by night  
-🧠 Learning to build tech that solves real-world problems
+🧠 Passionate about building tech that makes an impact  
 
 ---
 
-### 👋 About Me
+### <h3 align="center">👋 About Me</h3>
 
-I'm Isaac Benedict — a curious and passionate junior developer from Nigeria who’s always been fascinated by how the internet works and how technology is shaping the future.
+<p>
+I’m <strong>Isaac Benedict</strong> a <em>curious and passionate developer from Nigeria</em> who’s fascinated by how technology shapes the future. What drives me is the desire to <strong>solve problems that matter</strong>. I believe <em>failure isn’t final — it’s feedback</em>, and every bug fixed, every late night of debugging, and every “aha” moment brings me closer to creating solutions with real impact.
+</p>
 
-What drives me is the desire to solve problems that matter. I believe failure isn’t final — it’s feedback. I may not be a full-stack developer yet, but I’m committed to the journey. Every bug fixed, every late night of debugging, and every “aha” moment brings me closer to building tools that make an impact.
+<p>
+My journey started with simply admiring what developers could build now I’m <strong>building too</strong>. I focus on <strong>frontend, backend, and full-stack web development</strong> while also exploring <strong>Blockchain and Web3 technologies</strong>. I’ve worked on projects ranging from responsive web apps to decentralized identity protocols all with the goal of merging <em>innovation with usability</em>.
+</p>
 
-My journey started with simply admiring what developers could build — now I’m building, too. I enjoy working across various sectors, and I’m especially drawn to the challenges in Web3, embedded systems, and mechatronics. I recently built a personal task manager that I use every day — it was a small project, but it gave me a huge sense of purpose.
+<p>
+I bring value through my ability to <strong>design, build, and ship scalable applications</strong>. Beyond Web2 and Web3, I also enjoy applying my background in <strong>Mechatronics Engineering</strong> to <em>IoT and embedded systems</em>. I learn by doing — tutorials, projects, collaboration, and sometimes even using AI as a coding buddy.
+</p>
 
-I learn by doing — tutorials, projects, collaborating with others, and sometimes even using AI as a coding buddy. I believe in community, open-source contributions, mentoring others, and hopefully one day, launching my own startup.
+<p>
+I believe in <strong>community, open-source contributions, and innovation</strong>. I’m committed to <em>growth, collaboration, and building meaningful tools</em>.
+</p>
 
-> "Procrastination is the assassination of destinations."
+<blockquote>
+  <em>"Procrastination is the assassination of destinations."</em>
+</blockquote>
 
-Outside of coding, I’m into basketball 🏀, anime 🎌, and diving deep into computer vision and mechatronics. I’m not always what you expect — there's always something unique and yet to be unraveled.
+<p>
+Outside of coding, I’m into <strong>basketball 🏀</strong>, <strong>anime 🎌</strong>, and diving deep into <strong>computer vision and mechatronics 🤖</strong>. I’m not always what you expect there’s always something <em>unique and yet to be unraveled</em>.
+</p>
+
+---
+
+### 🧰 Tech Stack
+
+- **Frontend**: React, Next.js, Tailwind, JavaScript  
+- **Backend**: Node.js, Express.js, MongoDB  
+- **Languages**: Python, C/C++ (embedded focus)  
+- **Exploring**: Blockchain (Sui), IoT, Machine Learning  
+- **Tools**: Git, GitHub, Docker (learning), GitHub Actions  
+
+---
+
+### 🌟 Highlights
+
+- Delivering <strong>impactful web and blockchain applications</strong> with a focus on scalability and user experience.  
+- Experienced in combining <strong>engineering problem-solving</strong> with <strong>modern software practices</strong>.  
+- Driven by a belief in <strong>community, innovation, and meaningful contributions</strong>.  
+- <strong>Ready to collaborate</strong> on projects, internships, and opportunities where technology can make a difference.  
 
 ---
 
 
----
-### 🛠️ What I'm Working On
-
-- 👨‍💻 **Tendx** – a smart attendance system (web version in progress)
-- 🧮 **CGPA Calculator** – CLI version done, web version coming soon
-- ✅ **Pathway Quest** – a task tracker for goal-setting and progress
-- 💡 Contributing to projects through the **Power Learn Project**
-- 📈 Currently sharpening my skills in:
-  - Frontend: `React`, `Tailwind`, `JavaScript`
-  - Backend: `Node.js`, `Express.js`, `MongoDB`
-  - Languages: `Python`
-  - Exploring: `Machine Learning`, `IoT`
-
-### 🧠 Featured Projects
-
-#### 🚀 Tendx – Smart Attendance System *(In Progress)*
-> A web-based attendance tracker powered by facial recognition and QR verification  
-Tech Stack: `MERN`, `Tailwind`, `IoT (future)`  
-Status: Idea + Web version in early dev
-
-#### 📊 CGPA Calculator (Python + Web UI Coming Soon)
-> Helps students calculate semester grades and GPA efficiently  
-Tech Stack: `Python`, `Flask` *(planned)*
-
-#### ✅ Pathway Quest – Task Manager
-> A personal project to track learning goals and projects with milestones  
-Tech Stack: `HTML`, `CSS`, `JS`, `LocalStorage`
-
----
-
-### 🔗 Connect With Me
 
 <p align="left">
 <a href="https://twitter.com/devchronicles_" target="_blank"><img src="https://img.shields.io/twitter/follow/devchronicles_?logo=twitter&style=for-the-badge" /></a>
@@ -103,9 +103,10 @@ Tech Stack: `HTML`, `CSS`, `JS`, `LocalStorage`
 
 ---
 
-### 📁 Portfolio (Coming Soon)
-> 🚧 Currently under construction – watch this space!  
-> Will include live project links, blogs, and more about my journey.
+### 📁 Portfolio
+> 🌐 Explore my work at <a href="https://benedictisaac.onrender.com" target="_blank"><strong>benedictisaac.onrender.com</strong></a>  
+> Featuring live project demos, ongoing builds, and stories from my developer journey.
+
 
 ---
 
