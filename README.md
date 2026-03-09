@@ -1,78 +1,139 @@
 <h1 align="center">Hi 👋, I'm Isaac Benedict</h1>
-<h3 align="center">Frontend Developer | Full-Stack Builder | Blockchain & Web3 Explorer</h3>
+<h3 align="center">AI Agent Developer | Full-Stack Engineer | Emerging Tech Explorer</h3>
 
 ---
 
-🎓 Student @ Federal University of Technology, Minna  
-🚀 Power Learn Project Fellow | 🛠️ Sui On Campus  
+🎓 Mechatronics Engineering Student @ Federal University of Technology, Minna  
+🤖 Meta AI Developer Academy Graduate  
+🚀 Builder focused on intelligent systems & real-world automation  
 🏀 Basketballer by day | 🎌 Anime enthusiast by night  
-🧠 Passionate about building tech that makes an impact  
 
 ---
 
 ### <h3 align="center">👋 About Me</h3>
 
 <p>
-I’m <strong>Isaac Benedict</strong> a <em>curious and passionate developer from Nigeria</em> who’s fascinated by how technology shapes the future. What drives me is the desire to <strong>solve problems that matter</strong>. I believe <em>failure isn’t final — it’s feedback</em>, and every bug fixed, every late night of debugging, and every “aha” moment brings me closer to creating solutions with real impact.
+I’m <strong>Isaac Benedict</strong>, a developer and engineering student from Nigeria passionate about building intelligent systems that solve real-world problems.
 </p>
 
 <p>
-My journey started with simply admiring what developers could build now I’m <strong>building too</strong>. I focus on <strong>frontend, backend, and full-stack web development</strong> while also exploring <strong>Blockchain and Web3 technologies</strong>. I’ve worked on projects ranging from responsive web apps to decentralized identity protocols all with the goal of merging <em>innovation with usability</em>.
+My work sits at the intersection of <strong>AI agents, full-stack engineering, and emerging technologies</strong>. I enjoy designing systems where software moves beyond static functionality into <em>intelligent, adaptive tools</em> that can automate tasks, assist users, and scale with real-world needs.
 </p>
 
 <p>
-I bring value through my ability to <strong>design, build, and ship scalable applications</strong>. Beyond Web2 and Web3, I also enjoy applying my background in <strong>Mechatronics Engineering</strong> to <em>IoT and embedded systems</em>. I learn by doing — tutorials, projects, collaboration, and sometimes even using AI as a coding buddy.
+Recently, I completed the <strong>Meta AI Developer Academy</strong> organized by <strong>RAIN (Robotics and Artificial Intelligence Nigeria)</strong>, where I focused on building <strong>Agentic AI systems</strong> and exploring how AI can collaborate across technologies to power smarter applications.
 </p>
 
 <p>
-I believe in <strong>community, open-source contributions, and innovation</strong>. I’m committed to <em>growth, collaboration, and building meaningful tools</em>.
+I learn best by building. My projects range from <strong>AI-powered applications</strong> and <strong>automation systems</strong> to experiments in <strong>blockchain protocols</strong> and <strong>engineering-driven systems</strong>.
+</p>
+
+<p>
+With my background in <strong>Mechatronics Engineering</strong>, I’m also interested in how software, AI, and hardware systems intersect — especially in areas like <em>embedded systems, automation, and intelligent infrastructure</em>.
+</p>
+
+<p>
+At my core, I’m a <strong>builder</strong> — constantly experimenting, learning, and pushing ideas into real systems.
 </p>
 
 <blockquote>
-  <em>"Procrastination is the assassination of destinations."</em>
+  <em>"Great systems aren’t just written — they’re engineered through curiosity, experimentation, and relentless problem-solving."</em>
 </blockquote>
 
-<p>
-Outside of coding, I’m into <strong>basketball 🏀</strong>, <strong>anime 🎌</strong>, and diving deep into <strong>computer vision and mechatronics 🤖</strong>. I’m not always what you expect there’s always something <em>unique and yet to be unraveled</em>.
-</p>
+---
+
+### 🧠 Current Focus
+
+- 🤖 AI Agents & Agentic AI Systems  
+- 🌐 AI-Powered Web Applications  
+- ⚙️ Full-Stack Systems 
+- ⛓️ Blockchain & Decentralized Protocols  
+- 🔧 Embedded Systems & Mechatronics  
 
 ---
 
 ### 🧰 Tech Stack
 
-- **Frontend**: React, Next.js, Tailwind, JavaScript  
-- **Backend**: Node.js, Express.js, MongoDB  
-- **Languages**: Python, C/C++ (embedded focus)  
-- **Exploring**: Blockchain (Sui), IoT, Machine Learning  
-- **Tools**: Git, GitHub, Docker (learning), GitHub Actions  
+**Frontend**
+- React
+- Next.js
+- TailwindCSS
+- JavaScript
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+
+**Languages**
+- Python
+- JavaScript
+- C/C++ (embedded focus)
+
+**AI & Systems**
+- AI Agents
+- LLM Integrations
+- Automation Workflows
+
+**Cloud & Tools**
+- AWS
+- Git
+- GitHub
+- Docker
+- GitHub Actions
 
 ---
 
-### 🌟 Highlights
+### 🚀 Project Highlights
 
-- Delivering <strong>impactful web and blockchain applications</strong> with a focus on scalability and user experience.  
-- Experienced in combining <strong>engineering problem-solving</strong> with <strong>modern software practices</strong>.  
-- Driven by a belief in <strong>community, innovation, and meaningful contributions</strong>.  
-- <strong>Ready to collaborate</strong> on projects, internships, and opportunities where technology can make a difference.  
+**TenaxAI** tenaxai.tech 
+Execution companion designed to help individuals stay focused, accountable, and locked-in while working on goals.
+
+**HaloAgent** halo-agent.onrender.com
+AI-powered CRM assistant for vendors and small businesses built during a hackathon.
+
+**Suirify**  testnet.suirify.com
+A decentralized identity protocol experiment built on the Sui blockchain.
 
 ---
 
+### 🌱 Builder Mindset
 
-
-<p align="left">
-<a href="https://twitter.com/devchronicles_" target="_blank"><img src="https://img.shields.io/twitter/follow/devchronicles_?logo=twitter&style=for-the-badge" /></a>
-<a href="https://linkedin.com/in/benedict-isaac-0b60a732b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-BenedictIsaac-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:benedictisaac258@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" /></a>
-</p>
+- Learn by building  
+- Break systems to understand them  
+- Turn ideas into working prototypes  
+- Iterate toward real-world impact  
 
 ---
 
 ### 🔍 I'm Open To
+
 - 💼 Internships & Freelance Opportunities  
-- 🤝 Collaborating on learning-driven or open-source projects  
-- 🧪 Contributing to beginner-friendly ML or Python-based projects  
+- 🤝 Collaborating on AI or full-stack projects  
+- 🧪 Open-source contributions and experimental systems  
+- 🚀 Hackathons and builder communities  
 
 ---
+
+<p align="left">
+<a href="https://twitter.com/devchronicles_" target="_blank">
+<img src="https://img.shields.io/twitter/follow/devchronicles_?logo=twitter&style=for-the-badge" />
+</a>
+
+<a href="https://linkedin.com/in/benedict-isaac-0b60a732b" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-BenedictIsaac-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:benedictisaac258@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Benedict258/Benedict258/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ### 🛠️ Languages and Tools
 <p align="left">
@@ -104,7 +165,7 @@ Outside of coding, I’m into <strong>basketball 🏀</strong>, <strong>anime �
 ---
 
 ### 📁 Portfolio
-> 🌐 Explore my work at <a href="https://benedictisaac.onrender.com" target="_blank"><strong>benedictisaac.onrender.com</strong></a>  
+> 🌐 Explore my work at <a href="https://benedictisaac.dev" target="_blank"><strong>benedictisaac.dev</strong></a>  
 > Featuring live project demos, ongoing builds, and stories from my developer journey.
 
 
