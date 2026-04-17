@@ -42,6 +42,14 @@ At my core, I’m a <strong>builder</strong> — constantly experimenting, learn
 
 ---
 
+### 🏅 Certifications
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dca6d4c6-bee6-4e52-bb3e-7ad3906b1b96" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+> 🔗 [View badge on Credly](https://www.credly.com/badges/dca6d4c6-bee6-4e52-bb3e-7ad3906b1b96)
+
+---
+
 ### 🧠 Current Focus
 
 - 🤖 AI Agents & Agentic AI Systems  
