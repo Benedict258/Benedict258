@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Isaac Benedict</h1>
-<h3 align="center">AI Agent Developer | Full-Stack Engineer | Emerging Tech Explorer</h3>
+<h3 align="center">Full-Stack & Agentic AI Engineer | Tech Lead @ Blockchain Club FUTMinna | Building Multi-LLM Workflows & Decentralized Protocols</h3>
 
 ---
 
-🎓 Mechatronics Engineering Student @ Federal University of Technology, Minna  
-🤖 Meta AI Developer Academy Graduate  
-🚀 Builder focused on intelligent systems & real-world automation  
-🏀 Basketballer by day | 🎌 Anime enthusiast by night  
+🎓 **Mechatronics Engineering Student** @ Federal University of Technology, Minna (Class of 2027)
+🤖 **Meta AI Developer Academy Graduate** @ RAIN
+💡 **Tech Lead** @ Blockchain Club FUTMinna & Full-Stack Engineer @ LagosRhythm
 
+Driven by a system-thinking approach to design high-performance applications where software moves beyond static execution into intelligent, adaptive, and autonomous workflows. 
+
+### 🌱 Core Developer Philosophy
+* **Learn by Execution:** Turning complex system design paradigms into live production prototypes.
+* **Architecture Rigor:** Eliminating code regressions through structured logging, benchmarking, and unit testing.
 ---
 
 ### <h3 align="center">👋 About Me</h3>
