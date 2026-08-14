@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Isaac Benedict</h1>
-<h3 align="center">Full-Stack & Agentic AI Engineer | Tech Lead @ Blockchain Club FUTMinna | Building Multi-LLM Workflows & Decentralized Protocols</h3>
+<h1 align="center">Hi 👋, I'm Benedict Isaac</h1>
+<h3 align="center">Full-Stack & Agentic AI Engineer | Mechatronics Engineering Student | Tech Lead @ Blockchain Club FUTMinna & AWS Student Builder Group</h3>
 
 ---
 
 🎓 **Mechatronics Engineering Student** @ Federal University of Technology, Minna (Class of 2027)
-🤖 **Meta AI Developer Academy Graduate** @ RAIN
-💡 **Tech Lead** @ Blockchain Club FUTMinna & Full-Stack Engineer @ LagosRhythm
+🤖 **Meta AI Developer Academy Graduate** @ RAIN (Robotics and Artificial Intelligence Nigeria)
+💡 **Tech Lead** @ Blockchain Club FUTMinna & AWS Student Builder Group · **Full-Stack Developer** @ LagosRhythm · **Frontend Engineer** @ Talenxify (ATC Africa)
 
-Driven by a system-thinking approach to design high-performance applications where software moves beyond static execution into intelligent, adaptive, and autonomous workflows. 
+Driven by a system-thinking approach to design high-performance applications where software moves beyond static execution into intelligent, adaptive, and autonomous workflows — increasingly extending that into embedded systems and robotics.
 
 ### 🌱 Core Developer Philosophy
 * **Learn by Execution:** Turning complex system design paradigms into live production prototypes.
@@ -17,31 +17,31 @@ Driven by a system-thinking approach to design high-performance applications whe
 ### <h3 align="center">👋 About Me</h3>
 
 <p>
-I’m <strong>Isaac Benedict</strong>, a developer and engineering student from Nigeria passionate about building intelligent systems that solve real-world problems.
+I'm <strong>Benedict Isaac</strong>, a developer and engineering student from Nigeria passionate about building intelligent systems that solve real-world problems.
 </p>
 
 <p>
-My work sits at the intersection of <strong>AI agents, full-stack engineering, and emerging technologies</strong>. I enjoy designing systems where software moves beyond static functionality into <em>intelligent, adaptive tools</em> that can automate tasks, assist users, and scale with real-world needs.
+My work sits at the intersection of <strong>AI agents, full-stack engineering, and embedded systems</strong>. I enjoy designing systems where software moves beyond static functionality into <em>intelligent, adaptive tools</em> that can automate tasks, assist users, and scale with real-world needs.
 </p>
 
 <p>
-Recently, I completed the <strong>Meta AI Developer Academy</strong> organized by <strong>RAIN (Robotics and Artificial Intelligence Nigeria)</strong>, where I focused on building <strong>Agentic AI systems</strong> and exploring how AI can collaborate across technologies to power smarter applications.
+I completed the <strong>Meta AI Developer Academy</strong> organized by <strong>RAIN (Robotics and Artificial Intelligence Nigeria)</strong>, focused on building <strong>Agentic AI systems</strong>, and more recently a 5-day <strong>AI Agents: Intensive Vibe Coding</strong> course with Google and Kaggle.
 </p>
 
 <p>
-I learn best by building. My projects range from <strong>AI-powered applications</strong> and <strong>automation systems</strong> to experiments in <strong>blockchain protocols</strong> and <strong>engineering-driven systems</strong>.
+I learn best by building. My projects range from <strong>AI-powered applications</strong> and <strong>automation systems</strong> to experiments in <strong>blockchain protocols</strong> and <strong>engineering-driven systems</strong> — including an edge-native computer vision system and ongoing research into agentic architectures for robotics.
 </p>
 
 <p>
-With my background in <strong>Mechatronics Engineering</strong>, I’m also interested in how software, AI, and hardware systems intersect — especially in areas like <em>embedded systems, automation, and intelligent infrastructure</em>.
+With my background in <strong>Mechatronics Engineering</strong>, I'm also interested in how software, AI, and hardware systems intersect — especially in areas like <em>embedded systems, computer vision, and intelligent infrastructure</em>.
 </p>
 
 <p>
-At my core, I’m a <strong>builder</strong> — constantly experimenting, learning, and pushing ideas into real systems.
+At my core, I'm a <strong>builder</strong> — constantly experimenting, learning, and pushing ideas into real systems.
 </p>
 
 <blockquote>
-  <em>"Great systems aren’t just written — they’re engineered through curiosity, experimentation, and relentless problem-solving."</em>
+  <em>"Great systems aren't just written — they're engineered through curiosity, experimentation, and relentless problem-solving."</em>
 </blockquote>
 
 ---
@@ -52,15 +52,20 @@ At my core, I’m a <strong>builder</strong> — constantly experimenting, learn
 
 > 🔗 [View badge on Credly](https://www.credly.com/badges/dca6d4c6-bee6-4e52-bb3e-7ad3906b1b96)
 
+Also holding certifications in Python & OpenShift Administration (Red Hat), AI Agents & Agentic AI Systems Development (Meta/RAIN), AI Agents: Intensive Vibe Coding (Google/Kaggle), Computer Vision (3MTT DeepTech), Full-Stack Development (Power Learn Project), and MATLAB/Simulink (MathWorks) — full list on my [portfolio](https://benedictisaac.dev).
+
+Also selected as a **Millennium Fellow, Class of 2026** (United Nations Academic Impact & Millennium Campus Network).
+
 ---
 
 ### 🧠 Current Focus
 
-- 🤖 AI Agents & Agentic AI Systems  
-- 🌐 AI-Powered Web Applications  
-- ⚙️ Full-Stack Systems 
-- ⛓️ Blockchain & Decentralized Protocols  
-- 🔧 Embedded Systems & Mechatronics  
+- 🤖 AI Agents & Agentic AI Systems
+- 🌐 AI-Powered Web Applications
+- ⚙️ Full-Stack Systems
+- ⛓️ Blockchain & Decentralized Protocols
+- 👁️ Computer Vision & Edge AI
+- 🔧 Embedded Systems & Mechatronics
 
 ---
 
@@ -70,60 +75,71 @@ At my core, I’m a <strong>builder</strong> — constantly experimenting, learn
 - React
 - Next.js
 - TailwindCSS
-- JavaScript
+- TypeScript / JavaScript
 
 **Backend**
 - Node.js
 - Express.js
+- FastAPI
 - REST APIs
 
 **Languages**
 - Python
-- JavaScript
+- JavaScript / TypeScript
+- Sui Move
 - C/C++ (embedded focus)
 
 **AI & Systems**
-- AI Agents
-- LLM Integrations
+- AI Agents & Agentic Workflows
+- LLM Integrations & Orchestration
+- Computer Vision
 - Automation Workflows
 
-**Cloud & Tools**
+**Data & Cloud**
+- PostgreSQL
+- Supabase
 - AWS
-- Git
-- GitHub
-- Docker
-- GitHub Actions
+- Git, GitHub, Docker, GitHub Actions
+
+**Engineering & Simulation**
+- MATLAB / Simulink
+- Embedded Programming
+- IoT & Automation
 
 ---
 
 ### 🚀 Project Highlights
 
-**TenaxAI** tenaxai.tech 
-Execution companion designed to help individuals stay focused, accountable, and locked-in while working on goals.
+**Tenaxai** — [tenaxai.tech](https://tenaxai.tech)
+AI-driven Product-to-Market Launch OS for startups and creators to discover markets, generate creatives, and track rollouts.
 
-**HaloAgent** halo-agent.onrender.com
-AI-powered CRM assistant for vendors and small businesses built during a hackathon.
+**ESS** — Edge-Native Persistent Recognition & Security Monitoring System *(in development)*
+Edge-native computer vision system for real-time recognition and security monitoring, built to run on constrained hardware with an integrated LLM reasoning layer and live gesture-based control.
 
-**Suirify**  testnet.suirify.com
-A decentralized identity protocol experiment built on the Sui blockchain.
+**HaloAI Agent** — [halo-agent.onrender.com](https://halo-agent.onrender.com)
+AI-powered CRM assistant for vendors and small businesses, automating intent extraction and live order tracking.
+
+**Suirify** — [testnet.suirify.com](https://testnet.suirify.com)
+A privacy-first sovereign identity protocol on the Sui blockchain.
 
 ---
 
 ### 🌱 Builder Mindset
 
-- Learn by building  
-- Break systems to understand them  
-- Turn ideas into working prototypes  
-- Iterate toward real-world impact  
+- Learn by building
+- Break systems to understand them
+- Turn ideas into working prototypes
+- Iterate toward real-world impact
 
 ---
 
 ### 🔍 I'm Open To
 
-- 💼 Internships & Freelance Opportunities  
-- 🤝 Collaborating on AI or full-stack projects  
-- 🧪 Open-source contributions and experimental systems  
-- 🚀 Hackathons and builder communities  
+- 🎓 SIWES / Industrial Attachment opportunities
+- 💼 Internships & Freelance Opportunities
+- 🤝 Collaborating on AI, full-stack, or embedded systems projects
+- 🧪 Open-source contributions and experimental systems
+- 🚀 Hackathons and builder communities
 
 ---
 
@@ -177,7 +193,7 @@ A decentralized identity protocol experiment built on the Sui blockchain.
 ---
 
 ### 📁 Portfolio
-> 🌐 Explore my work at <a href="https://benedictisaac.dev" target="_blank"><strong>benedictisaac.dev</strong></a>  
+> 🌐 Explore my work at <a href="https://benedictisaac.dev" target="_blank"><strong>benedictisaac.dev</strong></a>
 > Featuring live project demos, ongoing builds, and stories from my developer journey.
 
 
@@ -190,4 +206,3 @@ A decentralized identity protocol experiment built on the Sui blockchain.
 </p>
 
 ---
-
