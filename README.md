@@ -50,7 +50,7 @@ At my core, I'm a <strong>builder</strong> — constantly experimenting, learnin
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dca6d4c6-bee6-4e52-bb3e-7ad3906b1b96" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-> 🔗 [View badge on Credly](https://www.credly.com/badges/dca6d4c6-bee6-4e52-bb3e-7ad3906b1b96)
+> 🔗 [View badge on Credly](https://www.credly.com/users/benedictisaac/badges/credly)
 
 Also holding certifications in Python & OpenShift Administration (Red Hat), AI Agents & Agentic AI Systems Development (Meta/RAIN), AI Agents: Intensive Vibe Coding (Google/Kaggle), Computer Vision (3MTT DeepTech), Full-Stack Development (Power Learn Project), and MATLAB/Simulink (MathWorks) — full list on my [portfolio](https://benedictisaac.dev).
 
